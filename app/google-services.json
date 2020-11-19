@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404715535776",
+    "firebase_url": "https://mfast-4cd0c.firebaseio.com",
+    "project_id": "mfast-4cd0c",
+    "storage_bucket": "mfast-4cd0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404715535776:android:9bbb889158f64a301578c5",
+        "android_client_info": {
+          "package_name": "com.example.mfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404715535776-8edshme1erornnb2ffqenactmkd8k3k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mfast",
+            "certificate_hash": "f114fdc76c2c0e29f2e6bed846f9ede2e6500cb9"
+          }
+        },
+        {
+          "client_id": "404715535776-mgfeh644k5d6f1n5p9mbuu6i7e0iphom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6vpZKQn1SE0Pp11SC6TQ3cyTT3LdNB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404715535776-mgfeh644k5d6f1n5p9mbuu6i7e0iphom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
